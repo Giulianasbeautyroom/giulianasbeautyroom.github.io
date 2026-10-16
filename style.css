@@ -344,3 +344,5 @@ button.pill{background:transparent;font-family:var(--body);cursor:pointer}
 .consent-actions{display:flex;flex-direction:column;gap:10px;flex-shrink:0}
 .consent .pill{padding:11px 24px;font-size:.74rem;color:var(--gold-hi);border:1px solid var(--gold)}
 @media (max-width:640px){.consent{flex-direction:column;align-items:stretch;padding:20px}.consent-actions{flex-direction:row}.consent .pill{flex:1}}
+.group-note{font-size:.82rem;color:var(--soft);margin-top:10px;font-style:italic}
+.asof{font-size:.75em;opacity:.7}
